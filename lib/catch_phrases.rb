@@ -12,3 +12,7 @@ def link
   help = "It's Dangerous To Go Alone! Take This."
   puts help
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
